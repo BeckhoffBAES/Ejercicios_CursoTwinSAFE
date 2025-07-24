@@ -23,8 +23,8 @@
 21. ¿Puedo vincular a más de un alias una variable de salida del proyecto de seguridad?
 22. ¿Es estrictamente necesario vincular la señal de Run y ErrorAck del grupo de seguridad cuando corre en una EL6910?
 23. ¿En que pestaña puedo activar las variables de diagnóstico de grupo (*State* y *Diag*)?
-24. ¿Como norma general, después de descargar un proyecto de seguridad, debo hacer un *activate configuration* y login?
+24. ¿Como norma general, después de descargar un proyecto de seguridad, debo hacer un *activate configuration* y *login*?
 25. ¿Cual es el usuario y password por defecto para descargar un proyecto de seguridad a una EL6910?
 
 ### Práctico ###
-1. Crea un proyecto de seguridad asociado al demo kit de safety de formació. El contactor se debe activar al pulsar el botón de rearme siempre que la seta de emergencia no esté enclavada. Desde el proyecto de PLC se quiere disponer del diagnóstico de grupo, alias y FB.  
+1. Crea un proyecto de seguridad asociado al demo kit de safety de formació. El contactor se debe activar al pulsar el botón de rearme siempre que la seta de emergencia no esté enclavada. Crea un proyecto de PLC para enviar el *Run* y *ErrrAck* al PLC de seguridad. 
