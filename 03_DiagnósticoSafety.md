@@ -11,4 +11,4 @@
 
 ### Práctico ###
 1. Añade el diagnóstico del grupo de seguridad, alias y FB del proyecto del módulo anterior a PLC.
-2. Lee el histórico de errores de la EL6910 por PLC usando la librería Tc3_EtherCATDiag
+2. Lee el histórico de errores de la EL6910 por PLC usando la librería Tc3_EtherCATDiag.
