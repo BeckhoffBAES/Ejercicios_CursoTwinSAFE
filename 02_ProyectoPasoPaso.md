@@ -9,13 +9,13 @@
 7. ¿Dónde puedo seleccionar el hardware al que voy a descargar el proyecto de seguridad?
 8. ¿Qué dos tipos de alias existen en un proyecto de seguridad?
 9. ¿Qué tipo de alias debo utilizar para vincular un BOOL entre el proyecto de PLC y el proyecto de seguridad?
-10. ¿Que permite la opción de *Import Alias Devices from IO*?
+10. ¿Qué permite la opción de *Import Alias Devices from IO*?
 11. ¿En que esclavo EtherCAT se quedan relejados todos los alias en su *process data*?
 12. ¿Dónde puedo configurar la dirección FSoE de un Alias?
-13. ¿Que checkbox debo activar en el alias de la EL1904 para poder leer el estado de sus 4 entradas desde PLC?
-14. ¿Que checkbox debo activar en el alias de la EL1904 para poder leer el estado y diagnóstico de la comunicación desde PLC?
-15. ¿En que pestaña del alias de la EL1904 puedo configurar el modo de operación de las entradas?
-16. ¿Dónde comprobar que la detección de consumo mínimo de las salidas de la EL2904 está activa?
+13. ¿Qué *checkbox* debo activar en el alias de la EL1904 para poder leer el estado de sus 4 entradas desde PLC?
+14. ¿Qué *checkbox* debo activar en el alias de la EL1904 para poder leer el estado y diagnóstico de la comunicación desde PLC?
+15. ¿En qué pestaña del alias de la EL1904 puedo configurar el modo de operación de las entradas?
+16. ¿Dónde puedo comprobar que la detección de consumo mínimo de las salidas de la EL2904 está activa?
 17. ¿Dónde puedo cambiar en el alias de la EL2904 los nombres de las salidas?
 18. ¿Que FB de seguridad debo usar para hacer un *emergency stop*?
 19. ¿Como se puede configurar la entrada 1 del *emergency stop* para que trabaje con control de discrepancia?
